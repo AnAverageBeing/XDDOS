@@ -100,7 +100,7 @@ java -jar XDDOS.jar localhost:25565 47 botjoiner 10 10 2 y
 - BigHandshake
 - BigPacket
 - BotJoiner
-- BotRiad
+- BotRaid
 - BungeeDowner
 - ChatSpam
 - ColorCrasher
